@@ -1,6 +1,6 @@
 # 🕹 MarioRL
 
-![Imagem de Fundo](data/mariofundo.png)
+![Imagem de Fundo](docs/mariofundo.png)
 
 ## 🎯 Descrição
 
